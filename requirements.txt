@@ -1,0 +1,6 @@
+torch
+moabb
+numpy
+pandas
+matplotlib
+scikit-learn
